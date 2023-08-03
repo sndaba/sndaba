@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Simi. Welcome to my Github.
+I work on Machine Learning, Data Science using Python and R programming.
+Have a look at my repositories.
+
 <!--
 **sndaba/sndaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
