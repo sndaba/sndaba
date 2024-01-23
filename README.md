@@ -2,7 +2,7 @@
 
 I'm Simi.
 I work on Machine Learning and Data Science using Python and R programming.
-Have a look at my repositories.
+
 
 <!--
 **sndaba/sndaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
