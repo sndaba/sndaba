@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome
 
-I'm Simi. Welcome to my Github.
-I work on Machine Learning, Data Science using Python and R programming.
+I'm Simi.
+I work on Machine Learning and Data Science using Python and R programming.
 Have a look at my repositories.
 
 <!--
