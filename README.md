@@ -1,7 +1,9 @@
 ### Hi there 👋 Welcome
 
 I'm Simi.
-I work on Machine Learning and Data Science using Python and R programming.
+
+My interests are in Machine Learning and Data Science using Python and R programming.
+I also like working on some Dataviz 🖼️🖌️🎨
 
 
 <!--
