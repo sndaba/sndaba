@@ -1,10 +1,14 @@
-### Hi there 👋 Welcome
+### Hi there 👋 Welcome </br></br>
 
-I'm Simi.
+I'm Simi.</br>
 
-My interests are in Machine Learning and Data Science using Python and R programming.
-I also like working on some Dataviz 🖼️🖌️🎨
+I'v been working as Teaching Assistant @ the [University of Botswana](https://www.ub.bw/).</br>
+My interests are in Machine Learning and Data Science using Python and R programming.</br>
+I also like working on some Dataviz 🖼️🖌️🎨.
 
+
+- ⚡ Fun fact: ... I ❤️ dogs 🐶 & cats 🐈</br>
+-  📫 How to reach me: ... ndabas@ac.ub.bw 
 
 <!--
 **sndaba/sndaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
