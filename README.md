@@ -3,7 +3,7 @@
 I'm Simi.</br>
 
 I'v been working as a Teaching Assistant @ the [University of Botswana](https://www.ub.bw/).</br>
-My interests are in Machine Learning and Data Science using Python and R programming.</br>
+My interests are in Machine Learning and Data Science using Python and R.</br>
 I also like working on some Dataviz 🖼️🖌️🎨.
 
 
