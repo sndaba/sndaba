@@ -1,14 +1,15 @@
 ### Hi there 👋 Welcome </br></br>
 
-I'm Simi.</br>
+I'm Simi ☺️.</br>
 
 I'v been working as a Teaching Assistant @ the [University of Botswana](https://www.ub.bw/).</br>
 My interests are in Machine Learning and Data Science using Python and R.</br>
 I also like working on some Dataviz 🖼️🖌️🎨.
-
-
 - ⚡ Fun fact: ... I ❤️ dogs 🐶 & cats 🐈</br>
--  📫 How to reach me: ... ndabas@ac.ub.bw 
+
+- 📝✍🏽 Check out my blog ... https://medium.com/@simisani.ndaba013
+
+- 📫 How to reach me: ... ndabas@ac.ub.bw 
 
 <!--
 **sndaba/sndaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
